@@ -1,0 +1,3 @@
+C:/Users/SITHUM JEEVANTHA/Desktop/s2/DATA STRUCTURES AND ALGORITHMS/week 12/cmake-build-debug/CMakeFiles/week_12.dir
+C:/Users/SITHUM JEEVANTHA/Desktop/s2/DATA STRUCTURES AND ALGORITHMS/week 12/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SITHUM JEEVANTHA/Desktop/s2/DATA STRUCTURES AND ALGORITHMS/week 12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
